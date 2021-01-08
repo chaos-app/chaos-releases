@@ -8,7 +8,7 @@ Head over to <https://chaos-96367.web.app> or grab the latest release from [Rele
 
 ## Bug report or feature request?
 
-File a bug report in [Issues](https://github.com/sarimabbas/chaos-releases/issues). 
+File a report in [Issues](https://github.com/sarimabbas/chaos-releases/issues). 
 
 
 ## Technologies
