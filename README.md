@@ -5,6 +5,4 @@ Chaos is a bookmarking web app and desktop app (macOS only at the moment). This 
 
 ## Technologies used
 
-* React
-* Electron 
-* Firebase
+Chaos uses React, Electron and Firebase.
