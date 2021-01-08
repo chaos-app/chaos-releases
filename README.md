@@ -4,9 +4,9 @@ Chaos is a bookmarking web app and desktop app (macOS only at the moment). This 
 
 ## Download
 
-Head over to <https://chaos-96367.web.app> or grab the latest release from [Releases](https://github.com/sarimabbas/chaos-releases/latest)
+Head over to <https://chaos-96367.web.app> or grab the latest release from [Releases](https://github.com/sarimabbas/chaos-releases/latest).
 
 
-## Technologies used
+## Technologies
 
 Chaos uses React, Electron and Firebase.
