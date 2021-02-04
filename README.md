@@ -1,6 +1,6 @@
 # Chaos 
 
-Chaos is a bookmarking web app and desktop app (macOS only at the moment). This repository hosts releases of the desktop app and also tracks bugs and feature request issues. 
+Chaos is a bookmarking web app and desktop app (macOS only at the moment). This repository hosts releases of the desktop app.
 
 ## Download
 
@@ -8,7 +8,7 @@ Head over to <https://chaos-96367.web.app> or grab the latest release from [Rele
 
 ## Bug report or feature request?
 
-File a report in [Issues](https://github.com/sarimabbas/chaos-releases/issues). 
+File a report here or on our [Productboard Portal](https://portal.productboard.com/chaos-portal/2-chaos)
 
 
 ## Technologies
